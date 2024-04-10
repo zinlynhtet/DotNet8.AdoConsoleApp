@@ -4,4 +4,4 @@
 - You can clearly see the codes with common methods.
 - Easy to maintain the queries and some stuffs.
 - Feel Free to Fork, Folks.
-- If this project help you get some different feeling, just tap the star.><
+- If this project helps you get some different feeling, just tap the star.><
