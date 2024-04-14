@@ -17,8 +17,8 @@ public class AdoDotNetExample
         //Read();
         //GetById(2);
         //Delete(6);
-        //Create("test", "author", "content");
-        //Update(6, "6", "author", "content");
+        Create("test", "author", "content");
+        Update(6, "6", "author", "content");
     }
 
     public void Read()
