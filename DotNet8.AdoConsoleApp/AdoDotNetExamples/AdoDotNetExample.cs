@@ -74,7 +74,7 @@ public class AdoDotNetExample
         SqlCommand cmd = Queries.command(title, author, content, connection, query);
         int result = cmd.ExecuteNonQuery();
         connection.Close();
-        string message = result > 0 ? "Saving Successful" : "Saving failed.";
+        string message = result > 0 ? "Saving Successful." : "Saving Failed.";
         Console.WriteLine(message);
     }
 
